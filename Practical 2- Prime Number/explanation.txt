@@ -1,0 +1,1 @@
+we have made a func sqr() for computing the sqaureroot of number given by user and then interrogated if the numbe is prime or non-prime
