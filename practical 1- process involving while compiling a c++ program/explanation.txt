@@ -1,0 +1,17 @@
+preprocessor
+g++ -E filename.cpp
+
+For making .i file
+g++ -E filename.cpp > filename.i
+
+for making .s file
+g++ -S filename.i
+
+for making .o file
+g++ -c filename.s
+
+for making .exe file
+g++ -o filename.exe filename.cpp
+
+for making a.out file
+g++ -C filename.s
