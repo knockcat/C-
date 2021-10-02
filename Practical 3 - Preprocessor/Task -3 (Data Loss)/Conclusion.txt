@@ -1,0 +1,4 @@
+xTake a char variable and use cin to take its value from the user, cout it and it will only return one character and loss rest of the data you have entered!
+
+we will face Data loss as char data type is capable of storing only 1 character .
+i.e 1 byte;
