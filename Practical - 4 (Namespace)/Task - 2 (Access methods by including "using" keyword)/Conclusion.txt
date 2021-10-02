@@ -1,0 +1,7 @@
+Access these methods using "using" keyword for main method?
+
+On using "using" keyword we do not need to include namesapce by help of sope resolution operator 
+
+synatx :      using namespace namespace_name
+
+and this will include all the methods declare inside the namespace..

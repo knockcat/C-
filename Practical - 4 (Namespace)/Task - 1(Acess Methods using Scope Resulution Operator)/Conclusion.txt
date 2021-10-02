@@ -1,0 +1,6 @@
+Access these methods using scope resolution operator [::](SRO) from main method?
+
+
+Namespace can be included by including using keyword with method or it can be included using method::funcname
+
+:: Scope Resolution Operator

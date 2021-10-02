@@ -1,0 +1,11 @@
+ry to access these methods for Mixed Values [Int, Float] and see how the compiler will react to it?
+
+
+Error Occur because no declared method for float , int parameter,and hence ambiguity occurs
+
+
+If you use a name or qualified name that does not refer to a unique function or object.   This is called Ambiguity
+
+OR
+
+When you derive classes, ambiguities can result if base and derived classes have members with the same names. Access to a base class member is ambiguous if you use a name or qualified name that does not refer to a unique function or object.
