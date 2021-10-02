@@ -1,3 +1,0 @@
-Conclusion : If we use iostream.h it will throw fatal error while running the preprocessor as no such header file or directory exist in c++.
-
-
